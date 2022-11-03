@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9aa4c824bed9c4f8cb0186b88516e727
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - player3: {instanceID: 0}
+  - player4: {instanceID: 0}
+  - uiText: {instanceID: 0}
+  - errorText: {instanceID: 0}
+  - data: {fileID: 11400000, guid: 02de144083cf847a096abee2a0144225, type: 2}
+  - chart: {fileID: 11400000, guid: c6057aed05d8f4332b7347b4925410d8, type: 2}
+  - setRun: {fileID: 11400000, guid: b09366205dbd54447a863a1f1d003595, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
